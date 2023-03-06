@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App4</string>
+    <string name="valor1">valor1</string>
+    <string name="valor2">valor2</string>
+    <string name="StringB1">Sumar</string>
+    <string name="StringB2">Restar</string>
+    <string name="StringB3">Multiplicar</string>
+    <string name="StringB4">Dividir</string>
+</resources>
